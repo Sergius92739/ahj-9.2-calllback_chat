@@ -1,4 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7m7ltm9g2t2hyp7u/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-9-2-calllback-chat/branch/master)
 
+#### Deployment: 
 
 ---
 
